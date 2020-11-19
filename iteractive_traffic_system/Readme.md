@@ -68,6 +68,8 @@ automatic traffic reading, and the manual web interface (Figure 2) can take the 
 
 The equipment used for the design of this module consists of:
 
+[!](documentation/images.doc/"lines drawn.jpg")
+
 •	Arduino platforms such as MKR1000 and ESP32
 
 •	IR sensors
