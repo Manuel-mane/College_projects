@@ -48,7 +48,7 @@ that could provoke accidents. When it comes to the web interface, this needs to 
 
 Figure 1 shows the representation of both modules and their basic design:
 
-[!](./documentation/images.doc/lines_drawn.jpg)
+[image](./documentation/images.doc/lines_draw.jpg)
 
 **Street Rails Module**
 
@@ -69,7 +69,6 @@ automatic traffic reading, and the manual web interface (Figure 2) can take the 
 
 The equipment used for the design of this module consists of:
 
-![images](documentation/images.doc/lines drawn.jpg)
 
 •	Arduino platforms such as MKR1000 and ESP32
 
