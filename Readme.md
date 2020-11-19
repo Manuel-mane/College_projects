@@ -1,6 +1,6 @@
 This repo describe the two major Capstone projects I developed in my college major of Bachelor of Telecommunications Technology.
 
-## Project 1: Smart Traffic Light
+## Project 1: Smart Traffic Light System
 `Spring 2019 (February 2019 - June 2019)`
 
 The purpose of this project is to develop a traffic light system that could adapt to real-time road conditions. The system will be able to detect traffic congestion and adjust 
