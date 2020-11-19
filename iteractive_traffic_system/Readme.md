@@ -48,7 +48,7 @@ that could provoke accidents. When it comes to the web interface, this needs to 
 
 Figure 1 shows the representation of both modules and their basic design:
 
-[!](/documentation/images.docs/lines_drawn)
+[!](/documentation/images.doc/lines_drawn.jpg)
 
 **Street Rails Module**
 
