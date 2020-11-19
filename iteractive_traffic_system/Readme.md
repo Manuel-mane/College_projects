@@ -85,4 +85,5 @@ shut of rails because of emergency vehicles approaching.
 
 ## Results of Project
 
+![Final Board](./documentation/images.doc/board_1.jpg)
 
