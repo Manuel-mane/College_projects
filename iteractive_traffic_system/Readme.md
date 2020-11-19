@@ -48,7 +48,7 @@ that could provoke accidents. When it comes to the web interface, this needs to 
 
 Figure 1 shows the representation of both modules and their basic design:
 
-[image](./documentation/images.doc/lines_draw.jpg)
+![Figure 1](./documentation/images.doc/lines_draw.jpg)
 
 **Street Rails Module**
 
@@ -81,5 +81,8 @@ The equipment used for the design of this module consists of:
 The web server interface (Figure 2) provides the possibility of manually control the rail’s directions. Besides, it will a “close for emergency” feature that will allow the 
 shut of rails because of emergency vehicles approaching. 
 
+![Figure 2](./documentation/images.doc/web_site.png)
+
+## Results of Project
 
 
