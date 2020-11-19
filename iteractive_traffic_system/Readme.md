@@ -38,9 +38,46 @@ A major challenge in the system design is the development of a bi-directional no
 Additional considerations will be taking into account when implement changes in street rails and other traffic signs. These changes have to proceed smoothly to avoid confusions 
 that could provoke accidents. When it comes to the web interface, this needs to be user-friendly and functional.
 
-Methodology and Design
+### Methodology and Design 
+
  The project consists on two modules: 
+ 
 •	Street Rail Module
+
 •	Cross Road Module
+
+Figure 1 shows the representation of both modules and their basic design:
+
+
+**Street Rails Module**
+
+The Street Rails Module consists of four rails (Figure 1). The directions of the rail direction are identified as North or South. Their configuration, depending of the 
+automatic traffic reading, and the manual web interface (Figure 2) can take the following structures:
+
+1.	SOUTH – SOUTH – NORTH – NORTH
+
+2.	SOUTH – NORTH – NORTH – NORTH
+
+3.	SOUTH – SOUTH – SOUTH – NORTH
+
+4.	SOUTH – CLOSED - NORTH – NORTH
+
+5.	SOUTH – SOUTH – CLOSED – NORTH
+
+6.	SOUTH – CLOSED – CLOSED – NORTH
+
+The equipment used for the design of this module consists of:
+
+•	Arduino platforms such as MKR1000 and ESP32
+
+•	IR sensors
+
+•	LCD screens
+
+•	LEDs
+
+The web server interface (Figure 2) provides the possibility of manually control the rail’s directions. Besides, it will a “close for emergency” feature that will allow the 
+shut of rails because of emergency vehicles approaching. 
+
 
 
